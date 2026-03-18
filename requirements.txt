@@ -1,0 +1,11 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-google-genai==2.0.10
+langchain-groq
+langchain-text-splitters
+langchain-core
+chromadb
+pymupdf
+streamlit
+python-dotenv
+google-generativeai
