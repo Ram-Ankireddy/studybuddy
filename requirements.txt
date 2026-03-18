@@ -9,3 +9,4 @@ pymupdf
 streamlit
 python-dotenv
 google-generativeai
+langsmith==0.2.10
